@@ -1,0 +1,10 @@
+.adv-csv-export-btn {
+    margin-left: 10px !important;
+    vertical-align: middle;
+}
+
+/* Sur la page des utilisateurs, aligner avec les filtres */
+#adv-csv-export-users {
+    float: left;
+    margin: 3px 8px 0 0;
+}

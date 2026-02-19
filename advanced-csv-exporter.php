@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Advanced CSV Exporter
- * Plugin URI:  https://votre-site.com
+ * Plugin URI:  https://www.dizitalizeo.com
  * Description: Exportez facilement vos utilisateurs, produits, catégories et commandes en CSV avec des filtres.
  * Version:     1.0.0
- * Author:      Votre Nom
- * Author URI:  https://votre-site.com
+ * Author:      RAKOTONARIVO Jean Claude
+ * Author URI:  https://e-vrotra.g
  * Text Domain: advanced-csv-exporter
  * Domain Path: /languages
  * Requires at least: 5.8

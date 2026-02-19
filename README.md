@@ -1,4 +1,4 @@
-# Advanced CSV Exporter
+# Advanced CSV Exporter Wordpress Plugin
 
 Exportez facilement vos utilisateurs, produits, catégories et commandes WooCommerce au format CSV depuis l'administration WordPress.
 
